@@ -1,49 +1,227 @@
-![Master Head GIF](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Charaka%20Jayamith&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20UI/UX%20Designer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
+<br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+intelligent+systems+for+the+real+world.;REST+APIs+%7C+UI/UX+Designer+%7C+Full-Stack+Web;Backend+Specialist+%7C+Freelance+Developer;27%2B+Professional+Certifications+%26+Counting.;Based+in+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0+%E2%80%94+Building+for+local+impact.)](https://git.io/typing-svg)
 
-<h1 align="center">  Hi 👋, I'm Charaka Jayamith </h1>
-<h3 align="center">A passionate UX/UI designer and Information Technology undergraduate at SLIIT. I'm currently exploring AI and design trends.</h3>
+<br/>
 
+<a href="https://linkedin.com/in/charaka-jayamith-703845260">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:charakajayamithe@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.behance.net/charakajayamith">
+  <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=charakajayamith2002&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 
-## <img src="https://assets-v2.lottiefiles.com/a/f62481a4-1172-11ee-aa7c-232f008dfb14/Sl4fTVnhQL.gif" width="60" height="60" />  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me 
+</div>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 380px></picture>
+---
 
-<br><br>
+## 🧠 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charakajayamith2002&label=Profile%20views&color=0e75b6&style=flat" alt="charakajayamith2002" /> </p>
+```python
+class CharakaJayamith:
 
+    # ── Identity ──────────────────────────────────────────────
+    name        = "Charaka Jayamith Matharaarachchi"
+    role        = "Software Engineer"
+    education   = "BSc (Hons) IT — SLIIT, Sri Lanka (Final Year 2025/26)"
+    location    = "Rathnapura, Sri Lanka 🇱🇰"
+    freelance   = True
 
-- 📖 I’m currently learning **Spring Boot, Spring Security, Microservices, Java, and how to integrate backend APIs with modern frontend frameworks like React and Vue**
+    # ── Expertise ─────────────────────────────────────────────
+    specialization  = "Backend Engineering · REST API Design · ML Systems"
+    stack           = ["React", "Next.js", "FastAPI", "Node.js", "Laravel", "MERN"]
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/charakajayamith](https://www.behance.net/charakajayamith)
+    # ── Currently Exploring ───────────────────────────────────
+    learning    = [
+        "Microservices architecture (FastAPI + Spring Boot)",
+        "Advanced LightGBM / ML pipelines for time-series",
+        "Cloud deployment — AWS EC2, Azure App Service",
+    ]
 
-- 💬 Ask me about **User Experience (UX) Design, User Interface (UI) Design, Interaction Design, and Design Systems**
+    # ── Philosophy ────────────────────────────────────────────
+    def philosophy(self):
+        return "Build things that matter to real people in real places. 🌱"
+```
 
-- 📫 How to reach me **charakajayamithe@gmail.com**
+---
 
-- ⚡ Fun fact **I believe that great design can make people’s lives better, and I love adding playful elements to user interfaces!**
+## 👨‍💼 Experience
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/charaka-jayamith-703845260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/charaka-jayamith-703845260" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/charaka.jayamith.3?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/charaka.jayamith.3?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/charakajayamith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/charakajayamith" height="30" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td><b>🏢 Company</b></td>
+    <td><b>💼 Role</b></td>
+    <td><b>🛠️ Core Stack</b></td>
+    <td><b>📅 Period</b></td>
+  </tr>
+  <tr>
+    <td>TECHUT (Pvt) Ltd</td>
+    <td>Software Engineer</td>
+    <td>React.js · Laravel · MySQL · MongoDB · Tailwind CSS</td>
+    <td>Current</td>
+  </tr>
+  <tr>
+    <td>Freelance</td>
+    <td>Full-Stack Developer</td>
+    <td>Next.js · FastAPI · Node.js · MERN · Figma</td>
+    <td>Ongoing</td>
+  </tr>
+</table>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
+## 🎓 Education
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charakajayamith2002&show_icons=true&locale=en&layout=compact" width="400px" alt="charakajayamith2002" />
-</p>
+<table>
+  <tr>
+    <td><b>🏛️ Institution</b></td>
+    <td><b>📘 Degree</b></td>
+    <td><b>📅 Year</b></td>
+  </tr>
+  <tr>
+    <td>SLIIT — Sri Lanka Institute of Information Technology</td>
+    <td>BSc (Hons) Information Technology</td>
+    <td>2021 – 2025 (Final Year)</td>
+  </tr>
+</table>
 
+> Faculty of Computing · Research focus: Agricultural ML systems & market intelligence for Sri Lanka
 
-## 🐍 A Snake Eating my Contributions Graph
-	
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🤖 Machine Learning & Data
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-035A7D?style=for-the-badge&logo=kaggle&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🎨 Design & Tooling
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+| Domain | Issuer | Count |
+|---|---|---|
+| ☁️ Cloud & Azure | Microsoft | Multiple |
+| ⚡ Power Platform | Microsoft Power Apps | Multiple |
+| 🔶 AWS | Amazon Web Services | Multiple |
+| 🐙 DevOps & VCS | GitHub | Multiple |
+| 🤝 Design Thinking | IBM | Multiple |
+
+> **27+ Professional Certifications** spanning Cloud, ML, DevOps, Low-Code, and Design
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=charakajayamith2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" width="48%"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=charakajayamith2002&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charakajayamith2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=10" width="45%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=charakajayamith2002&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="96%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+</div>
+
+---
+
+## 💬 A Thought
+
+<div align="center">
+
+> *"The best engineers don't just write code — they understand the problem deeply enough to know when not to."*
+
+</div>
+
+---
+
+## 📫 Reach Me
+
+<div align="center">
+
+I'm always open to discussing **backend architecture, ML for real-world problems, agri-tech, or freelance work.**
+
+| 📧 Email | 💼 LinkedIn | 🎨 Behance |
+|---|---|---|
+| charakajayamithe@gmail.com | [charaka-jayamith](https://linkedin.com/in/charaka-jayamith-703845260) | [charakajayamith](https://www.behance.net/charakajayamith) |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
