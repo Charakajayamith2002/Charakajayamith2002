@@ -100,7 +100,7 @@ class CharakaJayamith:
 	 <tr>
     <td>SITC — Science and Information Technology City Campus</td>
     <td>Diploma in Cyber Security </td>
-    <td>2022 – 2024</td>
+    <td>2022 – 2023</td>
   </tr>
 </table>
 
