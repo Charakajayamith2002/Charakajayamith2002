@@ -89,7 +89,18 @@ class CharakaJayamith:
   <tr>
     <td>SLIIT — Sri Lanka Institute of Information Technology</td>
     <td>BSc (Hons) Information Technology</td>
-    <td>2021 – 2025 (Final Year)</td>
+    <td>2022 – 2026</td>
+  </tr>
+	 <tr>
+    <td>SLIIT — Sri Lanka Institute of Information Technology</td>
+    <td>Higher National Diploma in Information Technology</td>
+    <td>2022 – 2024</td>
+  </tr>
+	</tr>
+	 <tr>
+    <td>SITC — Science and Information Technology City Campus</td>
+    <td>Diploma in Cyber Security </td>
+    <td>2022 – 2024</td>
   </tr>
 </table>
 
